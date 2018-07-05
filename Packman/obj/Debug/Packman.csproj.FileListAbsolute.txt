@@ -1,0 +1,10 @@
+C:\Users\P106\source\repos\Packman\Packman\bin\Debug\Packman.exe.config
+C:\Users\P106\source\repos\Packman\Packman\bin\Debug\Packman.exe
+C:\Users\P106\source\repos\Packman\Packman\bin\Debug\Packman.pdb
+C:\Users\P106\source\repos\Packman\Packman\obj\Debug\Packman.csprojResolveAssemblyReference.cache
+C:\Users\P106\source\repos\Packman\Packman\obj\Debug\Packman.Form1.resources
+C:\Users\P106\source\repos\Packman\Packman\obj\Debug\Packman.Properties.Resources.resources
+C:\Users\P106\source\repos\Packman\Packman\obj\Debug\Packman.csproj.GenerateResource.Cache
+C:\Users\P106\source\repos\Packman\Packman\obj\Debug\Packman.csproj.CoreCompileInputs.cache
+C:\Users\P106\source\repos\Packman\Packman\obj\Debug\Packman.exe
+C:\Users\P106\source\repos\Packman\Packman\obj\Debug\Packman.pdb
